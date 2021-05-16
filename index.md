@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Yixiao He Personal Website
+
+
+In About Me, you can view my self-intro and academic experience. In Contact Info, you can view my contact information. 
 
 You can use the [editor on GitHub](https://github.com/yh968/yixiaohe.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
