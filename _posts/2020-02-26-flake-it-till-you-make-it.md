@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Self-Introduction
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: Yixiao is here
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
